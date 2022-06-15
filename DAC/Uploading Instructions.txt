@@ -1,0 +1,8 @@
+DAC
+Install the I2c library first located within this folder before opening and uploading the given program.
+
+How to install:
+1. Copy the I2c folder
+2. Paste it on My Documents > Arduino > Libraries 
+(depends on your directory for your Arduino)
+
